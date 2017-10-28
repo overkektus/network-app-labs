@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  TCPConnection.cpp
+c:\study\программирование и безопасность сетевых прил\lab3\client\tcpconnection.h(13): warning C4091: static : пропускается слева от "TCPConnection::Helper", когда ни одна переменная не объявлена
+  Client.cpp
+c:\study\программирование и безопасность сетевых прил\lab3\client\tcpconnection.h(13): warning C4091: static : пропускается слева от "TCPConnection::Helper", когда ни одна переменная не объявлена
+  Создание кода...
+  Client.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\Lab3\Debug\Client.exe
