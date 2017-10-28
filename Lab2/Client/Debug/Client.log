@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\study\программирование и безопасность сетевых прил\лаб2\lab2\serv\tcpconnection.h(13): warning C4091: static : пропускается слева от "TCPConnection::Helper", когда ни одна переменная не объявлена
-  Client.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\лаб2\Lab2\Debug\Client.exe
-  Client.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\лаб2\Lab2\Debug\Client.pdb (Partial PDB)
+c:\study\программирование и безопасность сетевых прил\lab2\serv\tcpconnection.h(13): warning C4091: static : пропускается слева от "TCPConnection::Helper", когда ни одна переменная не объявлена
+  Client.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\Lab2\Debug\Client.exe
+  Client.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\Lab2\Debug\Client.pdb (Partial PDB)
