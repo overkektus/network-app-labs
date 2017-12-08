@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\study\программирование и безопасность сетевых прил\lab7\mailslot\mailslot\main.cpp(19): warning C4101: end: неиспользованная локальная переменная
+c:\study\программирование и безопасность сетевых прил\lab7\mailslot\mailslot\main.cpp(18): warning C4101: buf: неиспользованная локальная переменная
+c:\study\программирование и безопасность сетевых прил\lab7\mailslot\mailslot\main.cpp(19): warning C4101: start: неиспользованная локальная переменная
+c:\study\программирование и безопасность сетевых прил\lab7\mailslot\mailslot\main.cpp(16): warning C4101: sH: неиспользованная локальная переменная
+c:\study\программирование и безопасность сетевых прил\lab7\mailslot\mailslot\main.cpp(17): warning C4101: rb: неиспользованная локальная переменная
+  Mailslot.vcxproj -> C:\Study\Программирование и безопасность сетевых прил\Lab7\Mailslot\Debug\Server.exe
